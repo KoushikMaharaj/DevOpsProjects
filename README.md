@@ -9,7 +9,7 @@ Welcome to the DevOps Projects repository! This repository contains a collection
 
 1. **Shell Script Project**
    - Description: This project is based on linux shell scripting. Developed for user and group management.
-   - Link: [Shell Script Project](./project-1/README.md)
+   - Link: [Shell Script Project](./project-1)
 
 ## Getting started
 ``` bash
